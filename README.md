@@ -3,7 +3,7 @@
 ## Project description
 This project consists of a to-do list program made using Java GUIs. This implementation supports file saving and a loading mechanism that allows the users to keep several different lists. This mechanism uses txt files to store all of the data.
 
-! [GUI images](all.jpg)
+![GUI images](all.jpg)
 
 
 ## How to install the project
